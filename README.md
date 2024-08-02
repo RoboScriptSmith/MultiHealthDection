@@ -8,4 +8,4 @@ You may need to install additional libraries for running the jupyter notebooks.
 
 
 
-live link=https://roboscriptsmith-heath-assistant-app-ossroz.streamlit.app/
+live link=https://multihealthdetection.streamlit.app/
